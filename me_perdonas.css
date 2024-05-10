@@ -48,6 +48,7 @@ body {
     max-width: 1200px;
     max-height: 673px;
     margin: 0 auto;
+    background-color: transparent
     background-image: url("/foto/diego.jpg");
     background-repeat: no-repeat; 
     background-position: center center; 
